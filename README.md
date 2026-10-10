@@ -22,6 +22,7 @@ Everything I make for my students, in one place: lesson scripts, revision papers
 | [0580_Maths/Paper_4](0580_Maths/Paper_4) | Paper 4 revision paper, worked solutions, video scripts |
 | [0580_Maths/Paper_2](0580_Maths/Paper_2) | Paper 2 revision paper, worked solutions for videos 1 to 6, video scripts |
 | [0580_Maths/Quick_Revision_Decks](0580_Maths/Quick_Revision_Decks) | 10-minute and 15-minute question decks with solutions |
+| [0625_Physics](0625_Physics), [0620_Chemistry](0620_Chemistry), [0610_Biology](0610_Biology) | Coming soon, same folder layout as Maths |
 | [Video_Links](Video_Links) | Links to every lesson video on YouTube |
 
 Inside each paper folder: `Revision_Paper` (questions), `Worked_Solutions` (full answers) and `Video_Scripts`.
